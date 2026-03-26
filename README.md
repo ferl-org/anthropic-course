@@ -1,4 +1,4 @@
-# Anthropic Course
+# Claude Course
 
 **Master Claude — from your first prompt through advanced automation.**
 
